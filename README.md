@@ -22,8 +22,7 @@ Exemplo: Não iniciado ❌ / Finalizado ✅
 
 ## Semana 01: analisando campanha de Marketing ✅ 
   A primeira empresa, Bloco de Código, precisa de um dashboard para monitorar a sua campanha de marketing durante o ano que a campanha foi realizada.
-  
-  [Projeto realizado no Looker](https://lookerstudio.google.com/reporting/b24808c1-c7e0-4052-918e-2a34b707ce2c)
+  [Versão do desafio realizado no Looker](https://lookerstudio.google.com/reporting/b24808c1-c7e0-4052-918e-2a34b707ce2c)
 
 ## Semana 02: logística, analisando dados  ❌
   A segunda empresa, Hermex, necessita analisar dados sobre a logística das entregas do seu negócio.
